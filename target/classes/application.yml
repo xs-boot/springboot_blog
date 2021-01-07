@@ -1,0 +1,14 @@
+spring:
+  thymeleaf:
+    mode: HTML
+  profiles:
+    active: dev
+  messages:
+    basename: i18n/messages
+#  file:
+#    path: log/
+#    max-size: 10
+
+
+comment.avatar: /images/avatar.png
+

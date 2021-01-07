@@ -1,0 +1,20 @@
+2021-01-03 21:14:46.252  INFO 22472 --- [restartedMain] com.xs.blog.BlogApplication              : Starting BlogApplication on DESKTOP-PP9L09G with PID 22472 (D:\JAVA9\项目实战\blog\target\classes started by xs183 in D:\JAVA9\项目实战\blog)
+2021-01-03 21:14:46.256 DEBUG 22472 --- [restartedMain] com.xs.blog.BlogApplication              : Running with Spring Boot v2.3.7.RELEASE, Spring v5.2.12.RELEASE
+2021-01-03 21:14:46.256  INFO 22472 --- [restartedMain] com.xs.blog.BlogApplication              : No active profile set, falling back to default profiles: default
+2021-01-03 21:14:46.323  INFO 22472 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-01-03 21:14:46.327  INFO 22472 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-01-03 21:14:47.158  INFO 22472 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-01-03 21:14:47.165  INFO 22472 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-01-03 21:14:47.165  INFO 22472 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-03 21:14:47.167  INFO 22472 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2021-01-03 21:14:47.167  INFO 22472 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2021-01-03 21:14:47.167  INFO 22472 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2021-01-03 21:14:47.170  INFO 22472 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2021-01-03 21:14:47.230  INFO 22472 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-01-03 21:14:47.230  INFO 22472 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 902 ms
+2021-01-03 21:14:47.405  INFO 22472 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-01-03 21:14:47.511  WARN 22472 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2021-01-03 21:14:47.513  WARN 22472 --- [restartedMain] org.thymeleaf.templatemode.TemplateMode  : [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-01-03 21:14:47.622  INFO 22472 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-01-03 21:14:47.655  INFO 22472 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2021-01-03 21:14:47.665  INFO 22472 --- [restartedMain] com.xs.blog.BlogApplication              : Started BlogApplication in 1.87 seconds (JVM running for 2.847)
